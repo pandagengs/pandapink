@@ -1,0 +1,44 @@
+.jumbotron{
+    background-image: url('img/gbr.jpg');
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: 0 -100px;
+            height: 380px;
+           
+            margin-bottom: 0px;
+}
+
+@font-face{
+    font-family: chery;
+    src: url(CHERI___.TTF);
+}
+body{
+    font-family: chery;
+}
+.tulisan{
+    font-size: 100px;
+    margin-left: 350px;
+    display: inline;
+  
+}
+a{
+    color:black;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+.tinggi{
+    min-height: 580px;
+}
+.tinggi1{
+    margin-top: 50px;
+}
+.bg{
+    background-image: url('img/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
